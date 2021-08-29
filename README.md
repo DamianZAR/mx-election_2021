@@ -1,4 +1,4 @@
 # mx-election_2021
 
-This repo is in construction. I wait to August 29th it is finished. 
+This repo is in construction. I wait to September 3rd it is finished. 
 However, the script is here shows where I am. It misses the Natural Language Process to get visualization data.
